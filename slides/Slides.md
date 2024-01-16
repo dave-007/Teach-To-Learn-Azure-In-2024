@@ -1,6 +1,7 @@
 ---
 marp: true
  theme: custom-dave
+ class: invert
  footer: 'LI: davidcobb'
  <!-- class: invert -->
 ---
@@ -32,8 +33,16 @@ marp: true
 
 ## transcript
 
+##
+
 ## metrics that matter student feedback
 
+
+---
+
+# Azure classes I've taught the most:
+
+- AZ-400 DevOps (16), AZ-204 Developer (11), AZ-104 Administrator (8), DP-203(7) Data Engineer, DP-300 Database Administrator (11), AZ-500(3)
 ---
 
 
@@ -61,11 +70,12 @@ marp: true
 - Survival
 - Commitment
 - Virtuous Cycle
-- Leverage the best tools to learn Azure at cloud speed
+- Iterate on best tools and techniques
 ---
 
 # Survival
 - Desire to provide for family without returning to a boring job
+- Midlife career crisis pro
 
 ---
 
@@ -78,56 +88,61 @@ marp: true
 
 # Virtuous cycle
 - Find next Azure certification topic that I have interest, aptitude & demand for.
-- Learn all I can, and share that knowledge
+- Learn all I can, and share that knowledge iwith a class.
 - Feedback gives me confidence on that topic & the next one I choose.
 - Azure cloud topics overlap, each success makes the next easier.
 - The satisfaction of assisting others toward their career goals fuels me.
+
+<!-- build evidence of competence by obtaining certifications, teaching, helping others, and solving problems. -->
+
+---
+
+# Iterate on best tools & techniques of study
 
 ---
 
 # How I Prepare to Teach an Azure class
 
-
-# TW's 3 Legged Stool
-  - Concepts & Theory
-  - Hands-On Learning
-  - Test Preparation
+- Leverage Learn.Microsoft.com
+- Choose next topic (interest, aptitude, demand)
+- Take Tim Warner's 3 Legged Stool Approach
 
 ---
 
+## Tim Warners's 3 Legged Stool
+- Concepts & Theory
+- Hands-On Learning
+- Test Preparation
 
-- Understand and maximize use of Microsoft Learn
-- Choose topic (interest, aptitude, demand)
-- Take Tim Warner's 3 Legged Stool Approach
 
 ---
 
 # Concepts & Theory
 
-    - Review Exam Page
-    - Review Study Guide
-    - Study When I Can
-    - Role -> Learning Paths -> Modules -> Units
+- Review Exam Page
+- Review Study Guide
+- Study When I Can (Phone!)
+- Role -> Learning Paths -> Modules -> Units
 
 ---
 
 
 # Hands-On Labs
-    - Git Repo (free and public)
-    - Lab provider (cost, MCT access)
-    - Follow your curiosity thru MS Learn Quickstarts & Walkthroughs
+- Git Repo (free and public)
+- Lab provider (cost, MCT access)
+- Follow your curiosity thru MS Learn Quickstarts & Walkthroughs
 
 ---
 
 # Test Prep
-    - The point of test prep is to spotlight your knowledge gapg
-    - You only LEARN when you get a question WRONG
-    - MS Practice Assessment (free)
-    - Measure Up ($$$ but saves time)
-    - WhizLabs ($ more Qs, lower quality)
-    - AVOID DUMPS! 
-        - Invalidates your cert
-        - Only cheats yourself.
+- The point of test prep is to spotlight your knowledge gapg
+- You only LEARN when you get a question WRONG
+- MS Practice Assessment (free)
+- Measure Up ($$$ but saves time)
+- WhizLabs ($ more Qs, lower quality)
+- AVOID DUMPS! 
+    - Invalidates your cert
+    - Only cheats yourself
 
 ---
 
@@ -156,13 +171,51 @@ marp: true
 
 ---
 
-# Choose Your Own Adventure (or two or three)
+# Choose Your Own Adventure 
+## *or two, or three*
+
+![bg contain right Choose a Career Path](img/ms-learn-roles.png)
+
+---
+
+# To move toward my North Star of ___________, I'll pursue the certification for the role of _________, and my next step today is to study __[module|labs|test questions]__
+
+---
+
+# 3 Stages of Learning
+- Learning from in **institution** is the **first** phase of learning
+- Learning **solo self directed** is the second phase of learning.
+- Learning **alongside others** is the **third** phase of learning. Requires culture of supporting others.
+  
+---
+
+
+### As an Azure teacher, being accountable to my customer, client & student keeps me focused.
+
+### What can you commit to as a learner to get this same focus?
+
+### Study Group!
+
+<!-- Talk about Cecilia's study group rules. -->
+---
+
 
 
 
 ---
 
-# To move toward my North Star of ___________, I'll pursue the certification for the role _________, and my next step today is to study ________.
+
+
+> To teach is to learn twice.
+
+> \- Joseph Joubert
+
+![bg contain right Choose a Career Path](img/learning-pyramid-ntl.png)
+
+---
+
+# Choose the right challenge level for you right now
+- https://twitter.com/dave000777/status/1715546218930069928
 
 ---
 
@@ -177,30 +230,38 @@ marp: true
 - Azure focus on AI
 - Workshops
 - Building in public
-- Finding my way from academic to practical
+- Finding my way from academic to practical & applied Azure know-how 
   
 ---
 
-# Call to Action 
-- Come to workshop
-- Plug into the community
-- Join the MS Learning Rooms
-- Join a Study group
-- Reach out to me for FREE CAREER ADVICE OR MENTORING  (money back guarantee!)
-  - https://linkedin.com/in/davidcobb
+![bg contain right DALL·E 2024-01-16 11.22.02 - Create an image of a small study group with friends sitting in a cozy setting. Picture a small circle of couches occupied by a diverse set of individuals.](img/DALL·E%202024-01-16%2011.22.02%20-%20Create%20an%20image%20of%20a%20small%20study%20group%20with%20friends%20sitting%20in%20a%20cozy%20setting.%20Picture%20a%20small%20circle%20of%20couches%20occupied%20by%20a%20diverse%20set%20of%20individu.png)
 
+# Calls to Action 
+
+- Come to a AI workshop 
+- Join a study group (like DP-600)
+- Join the MS Learning Rooms
+- Plug into the community
+  
 ---
+
 
 # Questions?
 
+- Reach out to me for FREE AZURE CERTIFICATION MENTORING  (money back guarantee!)
+- https://linkedin.com/in/davidcobb
 
 ---
 
+
 # Credits
 
-Shoutout to the amazing Chris Ayers for his MARP template that made this presentation technically possible.
+Shoutout to the amazing Chris Ayers for his MARP template that made this markdown-to-html presentation simple to deploy.
 
 https://chris-ayers.com/2023/03/26/marp-create-presentations-with-markdown
+
+Tim Warner on YouTube
+[Tim's IT Straight Talk: "A Recipe to Pass any IT Certification Exam"](https://www.youtube.com/watch?v=wpPZY_KrRLo)
 
 ---
 
