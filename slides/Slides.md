@@ -1,7 +1,8 @@
 ---
 marp: true
-# theme: custom-dave
-footer: 'LI: davidcobb'
+ theme: custom-dave
+ footer: 'LI: davidcobb'
+ <!-- class: invert -->
 ---
 
 # Teach to Learn Azure in 2024
@@ -101,21 +102,24 @@ footer: 'LI: davidcobb'
 
 ---
 
-- Concepts & Theory
+# Concepts & Theory
+
     - Review Exam Page
     - Review Study Guide
+    - Study When I Can
+    - Role -> Learning Paths -> Modules -> Units
 
 ---
 
 
-- Hands-On Labs
+# Hands-On Labs
     - Git Repo (free and public)
     - Lab provider (cost, MCT access)
     - Follow your curiosity thru MS Learn Quickstarts & Walkthroughs
 
 ---
 
-- Test Prep
+# Test Prep
     - The point of test prep is to spotlight your knowledge gapg
     - You only LEARN when you get a question WRONG
     - MS Practice Assessment (free)
@@ -141,6 +145,22 @@ footer: 'LI: davidcobb'
 
 # Your Next Steps
 
+
+---
+
+# What's your North Star?
+
+- Envision a destination for your Azure career.
+- It will change over time, you only need it to have a direction.
+- Then answer this question:
+
+---
+
+# To move toward my North Star of ___________, I'll pursue the certification for the role _________, and my next step today is to study ________.
+
+---
+
+# Take Action
 - step out from learning solo & learn in a group
 - consider pursuing your MCT
 - create your future by learning interesting stuff and helping others learn it as well.
@@ -167,6 +187,14 @@ footer: 'LI: davidcobb'
 
 # Questions?
 
+
+---
+
+# Credits
+
+Shoutout to the amazing Chris Ayers for his MARP template that made this presentation technically possible.
+
+https://chris-ayers.com/2023/03/26/marp-create-presentations-with-markdown
 
 ---
 
