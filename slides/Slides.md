@@ -156,6 +156,12 @@ marp: true
 
 ---
 
+# Choose Your Own Adventure (or two or three)
+
+
+
+---
+
 # To move toward my North Star of ___________, I'll pursue the certification for the role _________, and my next step today is to study ________.
 
 ---
