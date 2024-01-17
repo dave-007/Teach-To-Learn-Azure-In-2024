@@ -1,5 +1,5 @@
 ---
-marp: true
+marp: false
  theme: custom-dave
  class: invert
  footer: 'LI: davidcobb'
@@ -129,8 +129,7 @@ https://learn.microsoft.com/en-us/users/dpc/transcript/vprpnfx5gxr2z8r
 
 # How I Prepare to Teach an Azure class
 
-- Leverage Learn.Microsoft.com
-- Choose next topic (interest, aptitude, demand)
+- Make the most of [Microsoft Learn](https://learn.microsoft.com/)
 - Take Tim Warner's 3 Legged Stool Approach
 
 ---
@@ -146,16 +145,16 @@ https://learn.microsoft.com/en-us/users/dpc/transcript/vprpnfx5gxr2z8r
 
 # Hands-On Labs *(I Start Here)*
 - [MicrosoftLearning Git Repo](https://github.com/MicrosoftLearning/) (free and public, MIT licensed)
-- Lab provider (ex. Skilable, XTremeLabs,GoDeploy) (cost $, [MCT lab access](https://aka.ms/mctlabprep))
+- Lab providers (ex. Skillable, XTremeLabs,GoDeploy) (cost $, [MCT lab access](https://aka.ms/mctlabprep))
 - Following curiosity thru MS Learn quickstarts & walkthroughs
-- ***Collecting links, notes, workarounds & questions as I use the portal & cloud shell is how I make a 'first pass' through the content.***
+- ***Collecting links, notes, workarounds & questions as I use the portal, cloud shell, VSCode, & other tools is how I make a 'deep first pass' through the content.***
 ---
 
 # Concepts & Theory
 
 - Review Exam Page
 - Review Study Guide
-- Study When I Can (Phone!)
+- Study When I Can (MS Learn on Your Phone!)
 - Role -> Learning Paths -> Modules -> Units
 - [YouTube like John Savill](https://www.youtube.com/@NTFAQGuy) for background learning during non-focused times. 
 
@@ -230,12 +229,12 @@ https://learn.microsoft.com/en-us/users/dpc/transcript/vprpnfx5gxr2z8r
 <!-- Talk about Cecilia's study group rules. -->
 ---
 
-Microsoft Learn Community
-https://learn.microsoft.com/en-us/training/learn-community
+[Microsoft Learn Community](https://learn.microsoft.com/en-us/training/learn-community)
 
-PROTIP: Dive into the learning rooms
 
-https://techcommunity.microsoft.com/t5/custom/page/page-id/learn
+PROTIP: Dive into the [Microsoft Learning Rooms](https://techcommunity.microsoft.com/t5/custom/page/page-id/learn)
+
+
 ![bg contain right MIcrosoft Learn Site](img/image.png)
 
 ---
@@ -274,12 +273,21 @@ https://techcommunity.microsoft.com/t5/custom/page/page-id/learn
 
 # Calls to Action 
 
-- Come to a AI workshop 
+- Come to an AI workshop 
 - Join a study group (like DP-600)
-- Join the MS Learning Rooms
+- Join the [MS Learning Rooms](https://techcommunity.microsoft.com/t5/custom/page/page-id/learn)
 - Plug into the community
+  - But where???
   
 ---
+
+# South Florida Community Awesomeness
+
+- [South Florida Tech Hub](https://techhubsouthflorida.org/meetups/)
+- [South Florida SQL Server User Group](https://www.meetup.com/sfssug/)
+- [FloridaJS](https://www.meetup.com/floridajs/)
+
+### Not in South Florida? 🌴 Find an [Azure Meetup near you](https://www.meetup.com/topics/azure/)
 
 
 # Questions?
