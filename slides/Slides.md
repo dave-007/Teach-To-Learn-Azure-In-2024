@@ -3,7 +3,6 @@ marp: true
  theme: custom-dave
  class: invert
  footer: 'LI: davidcobb'
- <!-- class: invert -->
 ---
 
 # Teach to Learn Azure in 2024
@@ -23,7 +22,8 @@ marp: true
 
 
 # Goals for Talk
-- Share actionable tips for achieving certifications quickly
+- Share actionable tips for achieving certifications
+- Explain my definition of an Azure 'Cloud Expert'
 - Convince you to learn by teaching (start small)
 - Help you get started by plugging into community
 
@@ -31,74 +31,100 @@ marp: true
 
 # Why listen to me?
 
-## transcript
+> *I've been at this a while...*
+
+## Microsoft Learn Transcript:
+https://learn.microsoft.com/en-us/users/dpc/transcript/vprpnfx5gxr2z8r
 
 ##
 
-## metrics that matter student feedback
+---
 
+## Some MTM student feedback 😄
+- I loved David's enthusiasm - he's super knowledgeable about Azure and it shows.
+
+
+- David was a terrific instructor. The best parts of the course were unscripted parts where we discussed specific real world examples or topics tangentially related to the course (providing greater context to the material).
+
+- I asked as much as I wanted and got to work on custom labs with the instructor side by side.
+
+- The instructor is very knowledgeable, very personable, and has an infectious love for teaching this content. I plan to take several more of these classes, I hope he is teaching them.
+
+*(Yup, I'm bragging here. Come at me.)*
 
 ---
 
 # Azure classes I've taught the most:
 
-- AZ-400 DevOps (16), AZ-204 Developer (11), AZ-104 Administrator (8), DP-203(7) Data Engineer, DP-300 Database Administrator (11), AZ-500(3)
+- AZ-400 DevOps (16 times), AZ-204 Developer (11x), AZ-104 Administrator (8x), DP-203(7x) Data Engineer, DP-300 Database Administrator (11x), AZ-500(3x)
 ---
 
 
 # What this presentation is and is not
 
 - IS
-  - Brief as possible summary of my approach
-  - What worked for me, will not for everyone
-  - Enough know-how to help folks in their first week of learning
-  - Way to get from noob to beginner or intermediate knowledge
-  - Learn what's on the menu, what drink pairs with what food, not every recipe
+  - Brief summary of my **general certification approach** as an Azure MCT
+  - What **worked for me**, will not for everyone
+  - Typically teach enough to **help folks in their first week** of learning a new Azure topic 
+  - Way to get from **noob to beginner **or intermediate knowledge
+  - *Exploring how to apply what I learned to learning in community*
 - IS NOT
-  - Approach to get deep expert knowledge
+  - Approach to get deep expert knowledge (ask an MVP)
   - How to build Azure solutions (that's down the road)
 
 ---
 
 
 # My Story
-- (Visual representation of a journey)
+
+- Short Version
+  - MCDBA Bootcamp
+- Longer Version in [talk to GLUG on YouTube](https://www.youtube.com/watch?v=XPNxYoARcDE&t=2s)
+
+![bg contain right Choose a Career Path](img/DALL·E%202024-01-17%2008.06.07%20-%20A%20retro-stylized%20collage%20representing%20the%20hero's%20journey%20of%20a%20young%20computer%20nerd.%20Starting%20with%20older%20computers%20and%20databases%20at%20the%20bottom,%20the%20imag.png)
 
 ---
 
-# Key Ideas That Made Me Effective
+# Key Ideas That Carried Me There to Here
 - Survival
 - Commitment
-- Virtuous Cycle
-- Iterate on best tools and techniques
+- Learning from Mistakes
+- Community
 ---
 
 # Survival
 - Desire to provide for family without returning to a boring job
-- Midlife career crisis pro
+- Midlife career crisis forced me to start my own career
+- All distractions fell away as I focused on survival
+
 
 ---
 
 # Commitment
-- Committing to teach a course in several weeks provides motivation
+- Committing to teach a course provides motivation
 - Focus factor comes from a deadline and keeping my word
-- This makes saying no to distractions & discouragement easier.
+- This makes saying no to distractions & discouragement easier
 
 ---
 
-# Virtuous cycle
-- Find next Azure certification topic that I have interest, aptitude & demand for.
-- Learn all I can, and share that knowledge iwith a class.
-- Feedback gives me confidence on that topic & the next one I choose.
-- Azure cloud topics overlap, each success makes the next easier.
-- The satisfaction of assisting others toward their career goals fuels me.
-
-<!-- build evidence of competence by obtaining certifications, teaching, helping others, and solving problems. -->
+# Learn from Mistakes
+- Fail once and give up was no longer an option
+- Learning, communicating and correcting the mistake fast is key for applications, and for people...
+- The closest we get to perfection is correcting course quickly
+- This approach makes the impossible possible, eventually
 
 ---
 
-# Iterate on best tools & techniques of study
+# Community
 
+- Nov 2019, I found Mike Pfieffer's CloudSkills community
+- The content & community helped me believe I could learn to be an Azure DevOps pro 😁
+![bg contain right Mike Pfieffer DevOps Bootcamp](img/mike-devops-bootcamp.png)
+
+
+---
+
+# *Fast Forward...*
 ---
 
 # How I Prepare to Teach an Azure class
@@ -109,12 +135,20 @@ marp: true
 
 ---
 
-## Tim Warners's 3 Legged Stool
+# Tim Warners's 3 Legged Stool of Cert Prep
 - Concepts & Theory
 - Hands-On Learning
 - Test Preparation
 
 
+---
+
+
+# Hands-On Labs *(I Start Here)*
+- [MicrosoftLearning Git Repo](https://github.com/MicrosoftLearning/) (free and public, MIT licensed)
+- Lab provider (ex. Skilable, XTremeLabs,GoDeploy) (cost $, [MCT lab access](https://aka.ms/mctlabprep))
+- Following curiosity thru MS Learn quickstarts & walkthroughs
+- ***Collecting links, notes, workarounds & questions as I use the portal & cloud shell is how I make a 'first pass' through the content.***
 ---
 
 # Concepts & Theory
@@ -123,20 +157,14 @@ marp: true
 - Review Study Guide
 - Study When I Can (Phone!)
 - Role -> Learning Paths -> Modules -> Units
+- [YouTube like John Savill](https://www.youtube.com/@NTFAQGuy) for background learning during non-focused times. 
 
----
-
-
-# Hands-On Labs
-- Git Repo (free and public)
-- Lab provider (cost, MCT access)
-- Follow your curiosity thru MS Learn Quickstarts & Walkthroughs
 
 ---
 
 # Test Prep
-- The point of test prep is to spotlight your knowledge gapg
-- You only LEARN when you get a question WRONG
+- The point of test prep is to spotlight your knowledge gaps
+- You only LEARN when you get a question WRONG and understand why
 - MS Practice Assessment (free)
 - Measure Up ($$$ but saves time)
 - WhizLabs ($ more Qs, lower quality)
@@ -148,26 +176,19 @@ marp: true
 
 # Tips to Deliver Training
 - Teach by REFERENCE instead of REMEMBERANCE
-    - Updates your skills real time
+    - Research the question to verify your answer & share that link
+    - Updates your skills real time, mastering the docs
     - Teach to fish
 - Baby steps to grow your confidence
     - Always choose the next step that gives you the RIGHT amount of challenge.
     - Teach ONE person
     - Teach a group
-    - Make content that teaches many
+    - (Maybe) make content that teaches many
 
 ---
 
 # Your Next Steps
 
-
----
-
-# What's your North Star?
-
-- Envision a destination for your Azure career.
-- It will change over time, you only need it to have a direction.
-- Then answer this question:
 
 ---
 
@@ -178,13 +199,23 @@ marp: true
 
 ---
 
+# What's your North Star?
+
+- Envision a destination *( for your Azure career )*
+- It will change over time, you only need it to have a direction to build momentum
+- Then answer this question daily, adjusting as needed:
+
+
+
+---
+
 # To move toward my North Star of ___________, I'll pursue the certification for the role of _________, and my next step today is to study __[module|labs|test questions]__
 
 ---
 
 # 3 Stages of Learning
 - Learning from in **institution** is the **first** phase of learning
-- Learning **solo self directed** is the second phase of learning.
+- Learning **solo self directed** is the **second** phase of learning.
 - Learning **alongside others** is the **third** phase of learning. Requires culture of supporting others.
   
 ---
@@ -199,8 +230,13 @@ marp: true
 <!-- Talk about Cecilia's study group rules. -->
 ---
 
+Microsoft Learn Community
+https://learn.microsoft.com/en-us/training/learn-community
 
+PROTIP: Dive into the learning rooms
 
+https://techcommunity.microsoft.com/t5/custom/page/page-id/learn
+![bg contain right MIcrosoft Learn Site](img/image.png)
 
 ---
 
@@ -220,9 +256,9 @@ marp: true
 ---
 
 # Take Action
-- step out from learning solo & learn in a group
-- consider pursuing your MCT
-- create your future by learning interesting stuff and helping others learn it as well.
+- Step out from learning solo & learn in a group
+- Consider [pursuing your MCT certification](https://learn.microsoft.com/en-us/credentials/certifications/mct-certification)
+- Create your future by learning interesting stuff and helping others learn it as well.
 
 ---
 
@@ -260,7 +296,7 @@ Shoutout to the amazing Chris Ayers for his MARP template that made this markdow
 
 https://chris-ayers.com/2023/03/26/marp-create-presentations-with-markdown
 
-Tim Warner on YouTube
+Learned so much about teaching Azure from Tim Warner, check out his YouTube channel
 [Tim's IT Straight Talk: "A Recipe to Pass any IT Certification Exam"](https://www.youtube.com/watch?v=wpPZY_KrRLo)
 
 ---
@@ -269,6 +305,16 @@ Tim Warner on YouTube
 
 ---
 
+# Virtuous cycle
+- Find next Azure certification topic based on **interest, aptitude & demand.**
+- **Deep dive, all in learning** for a few weeks, and** share that knowledge **with a class, **researching questions **I can't answer.
+- Choose the next most interesting topic.
+- Azure cloud topics overlap, each success makes the next easier.
+- The satisfaction of assisting others toward their career goals fuels me.
+
+<!-- build evidence of competence by obtaining certifications, teaching, helping others, and solving problems. -->
+
+---
 # My Presentation
 ![bg right](https://picsum.photos/800/600)
 
