@@ -29,6 +29,21 @@ marp: true
 
 ---
 
+
+# What this presentation is and is not
+
+- IS
+  - Brief summary of my **general certification approach** as an Azure MCT
+  - What **worked for me**, will not for everyone
+  - Typically teach enough to **help folks in their first week** of learning a new Azure topic 
+  - Way to get from **noob to beginner **or intermediate knowledge
+  - *Exploring how to apply what I learned to learning in community*
+- IS NOT
+  - Approach to get deep expert knowledge (ask an MVP)
+  - How to build Azure solutions (that's down the road)
+
+---
+
 # Why listen to me?
 
 > *I've been at this a while...*
@@ -50,27 +65,13 @@ https://learn.microsoft.com/en-us/users/dpc/transcript/vprpnfx5gxr2z8r
 
 - The instructor is very knowledgeable, very personable, and has an infectious love for teaching this content. I plan to take several more of these classes, I hope he is teaching them.
 
-*(Yup, I'm bragging here. Come at me.)*
+*(Yup, I'm bragging here. 😁)*
 
 ---
 
 # Azure classes I've taught the most:
 
 - AZ-400 DevOps (16 times), AZ-204 Developer (11x), AZ-104 Administrator (8x), DP-203(7x) Data Engineer, DP-300 Database Administrator (11x), AZ-500(3x)
----
-
-
-# What this presentation is and is not
-
-- IS
-  - Brief summary of my **general certification approach** as an Azure MCT
-  - What **worked for me**, will not for everyone
-  - Typically teach enough to **help folks in their first week** of learning a new Azure topic 
-  - Way to get from **noob to beginner **or intermediate knowledge
-  - *Exploring how to apply what I learned to learning in community*
-- IS NOT
-  - Approach to get deep expert knowledge (ask an MVP)
-  - How to build Azure solutions (that's down the road)
 
 ---
 
@@ -173,13 +174,21 @@ https://learn.microsoft.com/en-us/users/dpc/transcript/vprpnfx5gxr2z8r
 
 ---
 
-# Tips to Deliver Training
+# Test Taking Tips
+
+- Consider the [Microsoft Exam Offers](https://learn.microsoft.com/en-us/credentials/certifications/deals) for deals on free retakes.
+- Sometimes the best preparation for the exam is taking the exam and studying what stumped you.
+![bg contain right $265 for retake + practice exam](image.png)
+
+---
+
+# Tips for Teaching Azure
 - Teach by REFERENCE instead of REMEMBERANCE
     - Research the question to verify your answer & share that link
     - Updates your skills real time, mastering the docs
     - Teach to fish
 - Baby steps to grow your confidence
-    - Always choose the next step that gives you the RIGHT amount of challenge.
+    - Always choose the next step that gives you the RIGHT amount of challenge
     - Teach ONE person
     - Teach a group
     - (Maybe) make content that teaches many
@@ -264,7 +273,7 @@ Find a study group for a an awesome cert, like DP-600!
 - Step out from learning solo & learn in a group
 - Consider [pursuing your MCT certification](https://learn.microsoft.com/en-us/credentials/certifications/mct-certification)
 - Create your future by learning interesting stuff and helping others learn it as well.
-- Ask out how you can help a local user group!
+- Ask out how you can help a local user group! - [SFSSUG Call for Speakers!](https://sessionize.com/)
 
 ---
 
@@ -291,16 +300,21 @@ Find a study group for a an awesome cert, like DP-600!
 # 🌴 South Florida Community Awesomeness 🌴
 
 - [South Florida Tech Hub](https://techhubsouthflorida.org/meetups/)
-- [South Florida SQL Server User Group](https://www.meetup.com/sfssug/)
+- [South Florida SQL Server User Group](https://www.meetup.com/sfssug/) - [Call for Speakers!](https://sessionize.com/sfssug-call-for-speakers/)
 - [FloridaJS](https://www.meetup.com/floridajs/)
+- Other groups to come...
 
 ### Not in South Florida? 🌴 Find an [Azure Meetup near you](https://www.meetup.com/topics/azure/)
 
 ---
+# That's a Wrap
+
+I hope I provided **actionable tips for achieving certifications**, defined an **Azure 'Cloud Expert'**, convince you to **learn by teaching** (starting small), and helped you get started by **plugging into community**
 
 # Questions?
 
-- Reach out to me for FREE AZURE CERTIFICATION MENTORING  (money back guarantee!)
+- Reach out to me for FREE AZURE CERTIFICATION MENTORING 
+   (money back guarantee!)
 - https://linkedin.com/in/davidcobb
 
 ---
