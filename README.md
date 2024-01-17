@@ -1,3 +1,17 @@
+
+Hello!
+This is the repo for my talk:
+
+# Teach to Learn Azure in 2024
+
+I've adapted [Chris Ayer's](http://chris-ayers.com/) MARP template to create the [slides for my presentation.](https://dave-007.github.io/Teach-To-Learn-Azure-In-2024)
+
+---
+
+---
+
+---
+
 # Marp Slides Template
 
 [Use this template!](https://github.com/codebytes/marp-slides-template/generate)
