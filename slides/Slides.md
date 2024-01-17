@@ -1,5 +1,5 @@
 ---
-marp: false
+marp: true
  theme: custom-dave
  class: invert
  footer: 'LI: davidcobb'
@@ -186,6 +186,19 @@ https://learn.microsoft.com/en-us/users/dpc/transcript/vprpnfx5gxr2z8r
 
 ---
 
+# Am I an Expert? What is an Expert?
+
+---
+
+# An expert is someone just like you, 
+# further along the path, 
+# sharing what they know.
+
+![bg contain right Frank Abagnale ](img/catch-me-if-you-can-frank-abagnale.png)
+
+
+---
+
 # Your Next Steps
 
 
@@ -219,23 +232,16 @@ https://learn.microsoft.com/en-us/users/dpc/transcript/vprpnfx5gxr2z8r
   
 ---
 
-
-### As an Azure teacher, being accountable to my customer, client & student keeps me focused.
-
-### What can you commit to as a learner to get this same focus?
-
-### Study Group!
-
-<!-- Talk about Cecilia's study group rules. -->
----
+# Study in Community!
 
 [Microsoft Learn Community](https://learn.microsoft.com/en-us/training/learn-community)
 
 
 PROTIP: Dive into the [Microsoft Learning Rooms](https://techcommunity.microsoft.com/t5/custom/page/page-id/learn)
 
+![bg contain right Microsoft Learn Site](img/mslearn.png)
 
-![bg contain right MIcrosoft Learn Site](img/image.png)
+Find a study group for a an awesome cert, like DP-600!
 
 ---
 
@@ -254,15 +260,16 @@ PROTIP: Dive into the [Microsoft Learning Rooms](https://techcommunity.microsoft
 
 ---
 
-# Take Action
+# Take Action, Get What You Give.
 - Step out from learning solo & learn in a group
 - Consider [pursuing your MCT certification](https://learn.microsoft.com/en-us/credentials/certifications/mct-certification)
 - Create your future by learning interesting stuff and helping others learn it as well.
+- Ask out how you can help a local user group!
 
 ---
 
 # Next Steps for Me in 2024
-- Azure focus on AI
+- Azure focus on AI (and how to feed it data)
 - Workshops
 - Building in public
 - Finding my way from academic to practical & applied Azure know-how 
@@ -281,7 +288,7 @@ PROTIP: Dive into the [Microsoft Learning Rooms](https://techcommunity.microsoft
   
 ---
 
-# South Florida Community Awesomeness
+# 🌴 South Florida Community Awesomeness 🌴
 
 - [South Florida Tech Hub](https://techhubsouthflorida.org/meetups/)
 - [South Florida SQL Server User Group](https://www.meetup.com/sfssug/)
@@ -289,6 +296,7 @@ PROTIP: Dive into the [Microsoft Learning Rooms](https://techcommunity.microsoft
 
 ### Not in South Florida? 🌴 Find an [Azure Meetup near you](https://www.meetup.com/topics/azure/)
 
+---
 
 # Questions?
 
@@ -308,6 +316,12 @@ Learned so much about teaching Azure from Tim Warner, check out his YouTube chan
 [Tim's IT Straight Talk: "A Recipe to Pass any IT Certification Exam"](https://www.youtube.com/watch?v=wpPZY_KrRLo)
 
 ---
+
+Thank You!
+
+---
+
+<!-- ---
 
 > Extra stuff, nothing to see here, move along
 
@@ -416,4 +430,4 @@ graph TD;
 </div>
 
 
----
+--- -->
