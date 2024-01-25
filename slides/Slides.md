@@ -36,7 +36,7 @@ marp: true
   - Brief summary of my **general certification approach** as an Azure MCT
   - What **worked for me**, will not for everyone
   - Typically teach enough to **help folks in their first week** of learning a new Azure topic 
-  - Way to get from **noob to beginner **or intermediate knowledge
+  - Way to get from **noob to beginner** or intermediate knowledge
   - *Exploring how to apply what I learned to learning in community*
 - IS NOT
   - Approach to get deep expert knowledge (ask an MVP)
@@ -71,7 +71,12 @@ https://learn.microsoft.com/en-us/users/dpc/transcript/vprpnfx5gxr2z8r
 
 # Azure classes I've taught the most:
 
-- AZ-400 DevOps (16 times), AZ-204 Developer (11x), AZ-104 Administrator (8x), DP-203(7x) Data Engineer, DP-300 Database Administrator (11x), AZ-500(3x)
+- AZ-400 DevOps (16 times)
+- AZ-204 Developer (11x)
+- AZ-104 Administrator (8x)
+- DP-203(7x) Data Engineer
+- DP-300 Database Administrator (11x)
+- AZ-500(3x)
 
 ---
 
@@ -79,7 +84,7 @@ https://learn.microsoft.com/en-us/users/dpc/transcript/vprpnfx5gxr2z8r
 # My Story
 
 - Short Version
-  - MCDBA Bootcamp
+  - MCDBA Bootcamp Story
 - Longer Version in [talk to GLUG on YouTube](https://www.youtube.com/watch?v=XPNxYoARcDE&t=2s)
 
 ![bg contain right Choose a Career Path](img/DALL·E%202024-01-17%2008.06.07%20-%20A%20retro-stylized%20collage%20representing%20the%20hero's%20journey%20of%20a%20young%20computer%20nerd.%20Starting%20with%20older%20computers%20and%20databases%20at%20the%20bottom,%20the%20imag.png)
@@ -165,6 +170,7 @@ https://learn.microsoft.com/en-us/users/dpc/transcript/vprpnfx5gxr2z8r
 # Test Prep
 - The point of test prep is to spotlight your knowledge gaps
 - You only LEARN when you get a question WRONG and understand why
+  - Research the missed question back in MS Learn, and **write down** what you learned. **Knowledge gap filled.**
 - MS Practice Assessment (free)
 - Measure Up ($$$ but saves time)
 - WhizLabs ($ more Qs, lower quality)
